@@ -1,6 +1,6 @@
 #!/bin/bash
 
-WALLPAPERS_DIR="/home/settler/Pictures/Wallpapers"
+WALLPAPERS_DIR="/home/YOUR_USERNAME/Pictures/Wallpapers"
 WS0_DIR="$WALLPAPERS_DIR/Збірна жовтий борщ"
 WS1_DIR="$WALLPAPERS_DIR/Plain walls"
 WS2_DIR="$WALLPAPERS_DIR/Rudymenty"
